@@ -7,6 +7,11 @@ body {
 }
 
 
+.hero-section {
+  position: relative;
+  display: inline;
+}
+
 /* Text Animation */
 .animation-container{
     font-weight: 800;
